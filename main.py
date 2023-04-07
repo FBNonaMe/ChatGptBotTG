@@ -23,7 +23,7 @@ from aiogram.types import  InlineKeyboardButton
 from aiogram import executor
 
 
-openai.api_key = "АПИ GPT "
+openai.api_key = "API GPT "
 openai.Model.list()
 
 
